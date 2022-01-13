@@ -1,4 +1,13 @@
-### Hi there 👋
+## Warm greetings 👋
+
+- ⚡ I love programming, data science, and especially books.
+- 🤔 I'm a Data engineer and python is my main programming language.
+- 🔭 I’m open to collaborate on data science projects.
+
+
+- 📫 <a href= "https://www.linkedin.com/in/mohamed-laroussi-metoui-590125183/" > Linkedin </a> | 
+<a href= "https://www.linkedin.com/in/mohamed-laroussi-metoui-590125183/" > StackOverflow </a>
+
 
 <!--
 **metoui-tude/metoui-tude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
