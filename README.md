@@ -3,6 +3,7 @@
 - ⚡ I love programming, data science, and especially books.
 - 🤔 I'm a Data engineer and python is my main programming language.
 - 🔭 I’m open to collaborate on Data science and automation projects.
+- ⚡ I've randomly chosen that whale picture.
 
 
 - 📫 <a href= "https://www.linkedin.com/in/mohamed-laroussi-metoui-590125183/" > Linkedin </a> | 
