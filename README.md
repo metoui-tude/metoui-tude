@@ -1,7 +1,6 @@
 ## Warm greetings 👋
 
 - 🤔 I'm a **Data engineer** from Tunisia with a Huge passion for books, programming and automation. 
-I'm currently trying to specialize myself more on document processing and digitalisation, I firmly believe that the more we make machines understand documents, the more we understand ourselves 🔭.. 
 - ⚡ Python is my main programming language
 - 🔭 I’m open to collaborate on Data engineering and automation projects.
 - 💬 My work motto "The technology you use impresses no one, The experience we create with it is everything."
