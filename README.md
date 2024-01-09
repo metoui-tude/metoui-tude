@@ -8,13 +8,13 @@
 
 
 **Find me on**
-📫 <a href= "https://www.linkedin.com/in/mohamed-laroussi-metoui-590125183/" > Linkedin </a> | 
-📫 <a href= "https://stackoverflow.com/users/12470170/metouitude" > StackOverflow </a>
+📫 <a href= "https://www.linkedin.com/in/mohamed-laroussi-metoui-590125183/" > Linkedin </a>
 
 
 <!--
 **metoui-tude/metoui-tude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ | 
+📫 <a href= "https://stackoverflow.com/users/12470170/metouitude" > StackOverflow </a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
